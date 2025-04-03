@@ -1,1 +1,1 @@
-
+NationsWar:metin2client.bin:YES:{0xB3,..}:{0xB2,..}
